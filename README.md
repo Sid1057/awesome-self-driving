@@ -126,6 +126,7 @@
 
 ### Localization
 
+- [PythonRobotics](https://atsushisakai.github.io/PythonRobotics/)
 - [Laika: python GNSS processing library](https://github.com/commaai/laika)
 
 #### SLAM and odometry
@@ -156,6 +157,7 @@
 ### Real datasets
 
 - [KITTI](http://www.cvlibs.net/datasets/kitti/)
+- [KITTI 360](http://www.cvlibs.net/datasets/kitti-360)
 - [CityScapes](https://www.cityscapes-dataset.com/)
 - [A2D2](https://www.a2d2.audi/a2d2/en.html)
 - [German traffic signs](http://benchmark.ini.rub.de/index.php?section=gtsrb&subsection=about)
