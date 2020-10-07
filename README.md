@@ -18,6 +18,10 @@
 - [CNTK](https://github.com/microsoft/CNTK)
 - [ONNX](https://github.com/onnx/onnx)
 
+#### Inference
+
+- [Torch2TRT](https://github.com/NVIDIA-AI-IOT/torch2trt)
+
 ### 3D data processing
 
 - [Open3D](http://open3d.org/)
