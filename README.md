@@ -203,6 +203,7 @@
 
 - [Papers With Code (always SOTA)](https://paperswithcode.com/)
 - [Awesome bibliography research in autonomous driving](https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving)
+- [SOTA in self-driving cars from CVLIBS](https://arxiv.org/abs/1704.05519)
 
 ## Blogs, Youtube, magazines
 
